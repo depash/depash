@@ -11,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 🔭 I’m currently working on improving my skills
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/depash-nepal-2aa64a226/' target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 email(depash2003@gmail.com)
 - ⚡ Fun fact: I love reading
